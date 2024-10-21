@@ -23,6 +23,8 @@ public class WordChecker {
     }
 
     
-    /*public ArrayList<String> createList(String target) {
-        }*/
+    public ArrayList<String> createList(String target) {
+        ArrayList<String> list = new ArrayList<String>();
+        
+    }
 }
